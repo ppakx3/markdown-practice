@@ -102,8 +102,24 @@ const rotaionWheel = document.querySelectorAll('body');
 
 positon 속성
 값 | 의미 |  기본값
---|--|--
+--|:--:|--:
 static | 기준 없음 | O
 releative | 요소 자신 | X
 releative | 요소 자신 | X
 releative | 요소 자신 | X
+
+# 원시 HTML(RAW HTML)
+
+동해물과 <u>백두산</u>이 마르고 닳도록<br>
+하느님이 보우하사 우리나라 만세
+
+<a href="https://google.com.com" target="_blank">구글</a>
+
+<img width="70" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">
+
+# 수평선
+
+---
+***
+___
+
